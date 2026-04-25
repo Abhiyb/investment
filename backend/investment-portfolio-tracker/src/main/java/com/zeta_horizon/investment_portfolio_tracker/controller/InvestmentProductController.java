@@ -35,7 +35,7 @@ public class InvestmentProductController {
         this.investmentProductService = investmentProductService;
         log.info("InvestmentProductController initialized successfully");
     }
-
+// i have made some changes for testing
     // ================================================================================================
     // PUBLIC ENDPOINTS - accessible to all users
     // ================================================================================================
