@@ -39,7 +39,7 @@ public class InvestmentProductController {
     // ================================================================================================
     // PUBLIC ENDPOINTS - accessible to all users
     // ================================================================================================
-
+//
     /**
      * Retrieves all active investment products available for investment(excludes inactive).
      *
